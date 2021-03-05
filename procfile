@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run precomedio.py
+web: sh setup.sh && streamlit run PrecoMedio.py
